@@ -1,0 +1,11 @@
+/Users/jenn/workspace/csharp/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.csprojAssemblyReference.cache
+/Users/jenn/workspace/csharp/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.csproj.CoreCompileInputs.cache
+/Users/jenn/workspace/csharp/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.AssemblyInfoInputs.cache
+/Users/jenn/workspace/csharp/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.AssemblyInfo.cs
+/Users/jenn/workspace/csharp/family_dictionary/bin/Debug/netcoreapp2.1/family_dictionary.deps.json
+/Users/jenn/workspace/csharp/family_dictionary/bin/Debug/netcoreapp2.1/family_dictionary.runtimeconfig.json
+/Users/jenn/workspace/csharp/family_dictionary/bin/Debug/netcoreapp2.1/family_dictionary.runtimeconfig.dev.json
+/Users/jenn/workspace/csharp/family_dictionary/bin/Debug/netcoreapp2.1/family_dictionary.dll
+/Users/jenn/workspace/csharp/family_dictionary/bin/Debug/netcoreapp2.1/family_dictionary.pdb
+/Users/jenn/workspace/csharp/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.dll
+/Users/jenn/workspace/csharp/family_dictionary/obj/Debug/netcoreapp2.1/family_dictionary.pdb
